@@ -1,0 +1,7 @@
+
+C:/Users/Administrator/Downloads/Test Maps/samplemapTest2.txt | (17.5, 0.0, 28.5) | (0.0, 0.0, 0.0) | Optimal Check -   1400 | 46.60001 | 324
+C:/Users/Administrator/Downloads/Test Maps/samplemapTest2.txt | (17.5, 0.0, 28.5) | (2.5, 0.0, -7.5) | Obstacle Avoidance -   3452 | 86.60002 | 1008
+C:/Users/Administrator/Downloads/Test Maps/samplemapTest2.txt | (17.5, 0.0, 28.5) | (2.5, 0.0, -7.5) | Only recalculation -   2057 | 59.60001 | 545
+C:/Users/Administrator/Downloads/Test Maps/samplemapTest2.txt | (6.5, 0.0, -7.5) | (21.5, 0.0, 29.5) | Optimal Check -   2408 | 56.80001 | 764
+C:/Users/Administrator/Downloads/Test Maps/samplemapTest2.txt | (6.5, 0.0, -7.5) | (21.5, 0.0, 29.5) | Obstacle Avoidance -   2814 | 93.00001 | 650
+C:/Users/Administrator/Downloads/Test Maps/samplemapTest2.txt | (6.5, 0.0, -7.5) | (21.5, 0.0, 29.5) | Only recalculation -   2507 | 75.00001 | 667

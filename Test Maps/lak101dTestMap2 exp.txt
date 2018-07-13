@@ -1,0 +1,7 @@
+C:/Users/Administrator/Downloads/Test Maps/lak101dTestMap2.txt | (-2.5, 0.0, 9.5) | (-3.5, 0.0, -7.5) | Optimal Check -   314 | 19.8 | 62
+C:/Users/Administrator/Downloads/Test Maps/lak101dTestMap2.txt | (-2.5, 0.0, 9.5) | (-3.5, 0.0, -7.5) | Obstacle Avoidance -   473 | 24.2 | 73
+C:/Users/Administrator/Downloads/Test Maps/lak101dTestMap2.txt | (-2.5, 0.0, 9.5) | (-3.5, 0.0, -7.5) | Only recalculation -   374 | 21.4 | 70
+
+C:/Users/Administrator/Downloads/Test Maps/lak101dTestMap2.txt | (5.5, 0.0, 7.5) | (-8.5, 0.0, -11.5) | Optimal Check -   351 | 25.2 | 31
+C:/Users/Administrator/Downloads/Test Maps/lak101dTestMap2.txt | (5.5, 0.0, 7.5) | (-8.5, 0.0, -11.5) | Obstacle Avoidance -   4274 | 100 | 2216
+C:/Users/Administrator/Downloads/Test Maps/lak101dTestMap2.txt | (5.5, 0.0, 7.5) | (-8.5, 0.0, -11.5) | Only recalculation -   412 | 26.2 | 82

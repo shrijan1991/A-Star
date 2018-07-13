@@ -1,0 +1,22 @@
+C:/Users/Administrator/Downloads/Test Maps/samplemapTest1.txt | (-25.5, 0.0, 19.5) | (13.5, 0.0, 22.5) | Optimal Check -   1284 | 47.99999 | 274
+C:/Users/Administrator/Downloads/Test Maps/samplemapTest1.txt | (-25.5, 0.0, 19.5) | (13.5, 0.0, 22.5) | Obstacle Avoidance -   1667 | 57 | 353
+C:/Users/Administrator/Downloads/Test Maps/samplemapTest1.txt | (-25.5, 0.0, 19.5) | (13.5, 0.0, 22.5) | Only recalculation -   1651 | 54.8 | 365
+
+
+
+C:/Users/Administrator/Downloads/Test Maps/samplemapTest1.txt | (7.5, 0.0, -3.5) | (-22.5, 0.0, 22.5) | Optimal Check -   2313 | 52.2 | 764
+C:/Users/Administrator/Downloads/Test Maps/samplemapTest1.txt | (7.5, 0.0, -3.5) | (-22.5, 0.0, 22.5) | Obstacle Avoidance -   3298 | 101 | 738
+C:/Users/Administrator/Downloads/Test Maps/samplemapTest1.txt | (7.5, 0.0, -3.5) | (-22.5, 0.0, 22.5) | Only recalculation -   2319 | 61.80001 | 687
+
+C:/Users/Administrator/Downloads/Test Maps/samplemapTest2.txt | (4.5, 0.0, -3.5) | (-21.5, 0.0, 34.5) | Optimal Check -   1697 | 55.00002 | 438
+C:/Users/Administrator/Downloads/Test Maps/samplemapTest2.txt | (4.5, 0.0, -3.5) | (-21.5, 0.0, 34.5) | Obstacle Avoidance -   4644 | 74.80003 | 1656
+C:/Users/Administrator/Downloads/Test Maps/samplemapTest2.txt | (4.5, 0.0, -3.5) | (-21.5, 0.0, 34.5) | Only recalculation -   2883 | 57.80002 | 986
+
+
+C:/Users/Administrator/Downloads/Test Maps/samplemapTest1.txt | (-10.5, 0.0, 11.5) | (-23.5, 0.0, 34.5) | Optimal Check -   967 | 34.2 | 220
+C:/Users/Administrator/Downloads/Test Maps/samplemapTest1.txt | (-10.5, 0.0, 11.5) | (-23.5, 0.0, 34.5) | Obstacle Avoidance -   1282 | 36.6 | 300
+C:/Users/Administrator/Downloads/Test Maps/samplemapTest1.txt | (-10.5, 0.0, 11.5) | (-23.5, 0.0, 34.5) | Only recalculation -   1010 | 35.6 | 210
+
+C:/Users/Administrator/Downloads/Test Maps/samplemapTest1.txt | (21.5, 0.0, 15.5) | (-23.5, 0.0, 19.5) | Optimal Check -   2002 | 53.20001 | 601
+C:/Users/Administrator/Downloads/Test Maps/samplemapTest1.txt | (21.5, 0.0, 15.5) | (-23.5, 0.0, 19.5) | Obstacle Avoidance -   2507 | 70.2 | 558
+C:/Users/Administrator/Downloads/Test Maps/samplemapTest1.txt | (21.5, 0.0, 15.5) | (-23.5, 0.0, 19.5) | Only recalculation -   1823 | 61.80001 | 420

@@ -1,0 +1,3 @@
+C:/Users/Administrator/Downloads/Test Maps/oth001dTestMap2.txt | (37.5, 0.0, 53.5) | (8.5, 0.0, -45.5) | Optimal Check -   113902 | 110.6 | 1315
+C:/Users/Administrator/Downloads/Test Maps/oth001dTestMap2.txt | (37.7, 0.3, 53.5) | (8.5, 0.0, -45.5) | Obstacle Avoidance -   367774 | 117.2 | 4093
+C:/Users/Administrator/Downloads/Test Maps/oth001dTestMap2.txt | (37.7, -4477.3, 53.4) | (8.5, 0.0, -45.5) | Only recalculation -   184579 | 110.6 | 1799

@@ -1,0 +1,3 @@
+C:/Users/Administrator/Downloads/Test Maps/samplemapTest3.txt | (-23.5, 0.0, 31.5) | (5.5, 0.0, -28.5) | Optimal Check -   2654 | 80.60001 | 594
+C:/Users/Administrator/Downloads/Test Maps/samplemapTest3.txt | (-23.5, 0.0, 31.5) | (5.5, 0.0, -28.5) | Obstacle Avoidance -   5523 | 116 | 1645
+C:/Users/Administrator/Downloads/Test Maps/samplemapTest3.txt | (-23.5, 0.0, 31.5) | (5.5, 0.0, -28.5) | Only recalculation -   3161 | 81.60001 | 931
